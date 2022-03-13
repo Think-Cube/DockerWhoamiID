@@ -1,6 +1,7 @@
 FROM golang:alpine3.15 AS binary
 ADD . /app
 WORKDIR /app
+RUN go mod init http
 RUN go build -o http
 
 FROM alpine:3.15.0
