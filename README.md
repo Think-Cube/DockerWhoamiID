@@ -1,6 +1,6 @@
 ## Simple HTTP docker service that prints it's container ID
 
-[![Build-Docker-Image](https://github.com/spy86/docker-whoami/actions/workflows/main.yml/badge.svg)](https://github.com/spy86/docker-whoami/actions/workflows/main.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![docker-celery](https://img.shields.io/badge/spy86-whoami-blue.svg)](https://cloud.docker.com/repository/docker/spy86/whoami) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Simple container which can be used to check container ID
 
