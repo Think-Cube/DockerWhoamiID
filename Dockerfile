@@ -4,7 +4,7 @@ WORKDIR /app
 RUN go mod init http
 RUN go build -o http -buildvcs=false
 
-FROM alpine:3.16
+FROM alpine:3
 WORKDIR /app
 ENV PORT 8000
 EXPOSE 8000
