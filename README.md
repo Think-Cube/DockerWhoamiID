@@ -13,7 +13,7 @@ DockerWhoamiID is a simple Go application within a Docker container designed to 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/DockerWhoamiID.git
+   git clone https://github.com/Think-Cube/DockerWhoamiID.git
    ```
 2. Build the Docker image:
    ```bash
